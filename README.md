@@ -10,7 +10,7 @@ Live on Arc Testnet -- [PaymentEscrow `0x55aFA5...2a98`](https://testnet.arcscan
 
 ### Path
 
-**MSc Data Science (Sheffield)** -> **Polymarket prediction-market research (USDC settlement)** -> on-chain ordinals tooling (BRC-20) -> DAO governance research (DARC) -> currently shipping agentic-economy SDKs on Arc.
+**MSc Data Science (Sheffield)** -> **Polymarket prediction-market research (USDC settlement)** -> currently shipping agentic-economy SDKs on Arc.
 
 ### Stack
 
