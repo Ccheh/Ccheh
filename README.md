@@ -1,4 +1,4 @@
-## Zen Chen
+## Zen 
 
 Building open-source agentic-economy infrastructure on Circle's [Arc](https://docs.arc.network). Two shipped protocols, one stack: payment streaming below + quality-conditional settlement above.
 
