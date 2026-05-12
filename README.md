@@ -1,4 +1,4 @@
-## Ccheh
+## Zen Chen
 
 Building **streaming micropayments for AI agents** on Circle's Arc.
 
