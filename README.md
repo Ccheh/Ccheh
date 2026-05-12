@@ -26,9 +26,9 @@ Today's payment rails treat AI as deterministic — pay X, receive Y, done. But 
 
 Different concerns, deliberately decoupled. Each composable with the others; each useful standalone.
 
-### Path
+### Background
 
-**MSc Data Science (Sheffield)** → **Strategy research at Polymarket** (quant on USDC-settled prediction markets) → currently shipping mechanism-design infrastructure on Arc.
+MSc Data Science (Sheffield). Active user of USDC-settled prediction markets. Currently shipping mechanism-design infrastructure on Arc.
 
 ### Stack
 
