@@ -20,4 +20,4 @@ Today's payment rails treat AI as deterministic. AI is probabilistic, and groups
 
 ### Background
 
-MSc Data Science (Sheffield, #1 cohort). Previously: Polymarket researcher, crypto-asset audit at a fund. Now shipping mechanism-design infrastructure on Arc.
+MSc Data Science (Sheffield). Previously: Polymarket researcher, crypto-asset audit at a fund. Now shipping mechanism-design infrastructure on Arc.
